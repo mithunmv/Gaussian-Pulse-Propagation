@@ -68,7 +68,7 @@ Compare the simulation results with the theoretical calculations and discuss any
 
 <img width="787" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d0d7c8f-d050-49d3-8954-7128dc8c387c" />
 
-
+<img width="1122" height="1172" alt="image" src="https://github.com/user-attachments/assets/22429ea4-f2af-4e60-a6dd-70b92bafbeda" />
 
 ---
 
